@@ -1,0 +1,16 @@
+.order-summary {
+    text-align: center;
+    font-size: 15px;
+}
+
+.total {
+    color: chocolate;
+    font-size: 15px;
+    font-weight: bold;
+    border-top: 2px solid rosybrown;
+}
+
+.cart-part {
+    padding: 10px;
+    line-height: 15px;
+}
