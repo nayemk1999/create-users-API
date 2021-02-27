@@ -1,0 +1,10 @@
+.users-part {
+    display: flex;
+}
+
+.user-body {
+    width: 70%;
+    margin-left: 100px;
+    border-right: 1px solid gray;
+    margin-right: 10px;
+}

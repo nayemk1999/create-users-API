@@ -1,12 +1,12 @@
 import './App.css';
-import Header from './components/Header/Header';
-import Shop from './components/Shop/Shop';
+import Header from './componets/userData/Header/Header';
+import UsersUI from './componets/userData/usersUI/UsersUI';
 
 function App() {
   return (
     <div>
-        <Header></Header>
-        <Shop></Shop>
+      <Header></Header>
+      <UsersUI></UsersUI>
     </div>
   );
 }
